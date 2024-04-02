@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/MorganEro/FrontEndMentor_Blog-Preview)
-- Live Site URL: [Github Deployed Site]()
+- Solution URL: [Github](https://github.com/MorganEro/FrontEndMentor_Blog-Card-Preview)
+- Live Site URL: [Github Deployed Site](https://morganero.github.io/FrontEndMentor_Blog-Card-Preview/)
 
 ## My process
 
